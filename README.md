@@ -7,7 +7,7 @@ A prefeitura de Campo Mourão, de olho do crescimento da cidade, decidiu investi
 
 # O Projeto
 
-Criar um banco de dados com as a principais informações (Estações, Funcionários, etc) da futura Rede de Bondes de Campo Mourão.
+Criar um banco de dados com as a principais informações (Estações, Linhas, etc) da futura Rede de Bondes de Campo Mourão.
 
 # Tecnologia
 MySQL
